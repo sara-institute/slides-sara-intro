@@ -1,0 +1,215 @@
+---
+format: 
+  revealjs:
+    theme: [default, styles.scss]
+    logo: images/logo-sara.png
+    slide-number: true
+---
+
+##  {background-image="https://images.unsplash.com/photo-1615715035868-fc94bd5ffdac?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size="cover" background-repeat="repeat"}
+
+<br>
+<br>
+
+::::::: centering
+:::::: columns
+::: {.column width="36%"}
+![**GYAN JYOTI [SA]{.clr-red}VITRIBAI PHULE (1831-1897)**<br>🌺 🙏🏽
+🌼](images/savitrimai.png){width=70%}
+:::
+
+::: {.column width="29%"}
+
+<br>
+
+![](images/logo-sara.png){width="2.0in" fig-align="center"}
+:::
+
+::: {.column width="34.75%"}
+![**MATA [RA]{.clr-red}MABAI AMBEDKAR (1898-1935)**<br>🌺 🙏🏽
+🌼](images/ramai.png){width=70%}
+:::
+::::::
+
+[**Savitribai Ramabai (SARA) Institute of Data Science**]{.r-fit-text}
+:::::::
+
+## [SARA Education Trust (Reg.2024/25/IV/389)]{.r-fit-text}
+
+> Savitribai Ramabai (SARA) Institute of Data Science
+
+::: centering
+![5 April 2023 - First Class of the
+SARA Institute of Data Science in Bhiwadi.](images/launch-sara.jpg){width="78%"}
+:::
+
+## Our Mission
+
+> Our Mission is to Democratise Data Science through Education, Open Tools, and Community Collaboration.
+
+## Free & Open-source Courses
+
+<br>
+
+::::::: {.centering layout-ncol="4" layout-valign="bottom"}
+::: card
+![](https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=2922&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+English Language
+:::
+
+::: card
+![](https://images.unsplash.com/photo-1649433391420-542fcd3835ea?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+Computer Skills
+:::
+
+::: card
+![](https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+Data <br>Science
+:::
+
+::: card
+![](https://images.unsplash.com/photo-1508004680771-708b02aabdc0?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+Research Methods
+:::
+:::::::
+
+::: aside
+Image source: [Unsplash](https://unsplash.com/)
+:::
+
+## SARA Saksharta Mission
+
+> [Spread Awareness about Data Science Education & Opportunities.]{.r-fit-text}
+
+::: {layout-ncol="3" layout-nrow="2"}
+
+![](images/visit1.jpg)
+
+![](images/visit4.jpg)
+
+![](images/visit6.jpg)
+
+![](images/visit2.jpg)
+
+![](images/visit3.jpg)
+
+
+
+![](images/visit5.jpg)
+
+:::
+
+## Our Latest Trainings
+
+![22-26 July 2024, 18 PG & PhD Participants Attended R Language Summer School. [Video](https://youtu.be/Yh5GaURxfXA)](https://sara-edu.netlify.app/images/2024summer.png)
+
+## Our Latest Trainings
+
+![16-20 Dec 2024, 11 PG & PhD Participants Attended Statistics Winter School.](https://sara-edu.netlify.app/stats-winter/2024-stats-winter/images/winter2024.jpeg)
+
+## Trainings in other Organizations
+
+> Dec 2023, Dept of Economics, MDU - Rohtak.
+
+![](images/mdu.jpg)
+
+## Trainings in other Organizations
+
+> May 2024, Dept of Food Technology, SRM - Sonipat.
+
+::: {layout-ncol="2" layout-nrow="1"}
+
+![](images/srm.jpg)
+
+![](images/srm1.jpg)
+:::
+
+## Trainings in other Organizations
+
+> May 2024, Dept of Food Technology, GJU - Hisar.
+
+![](images/gju.jpg)
+
+## Trainings in other Organizations
+
+> May 2024, Dept of Food Technology, GJU - Hisar.
+
+::: {layout-ncol="2" layout-nrow="1"}
+
+![](images/gju1.jpg)
+
+![](images/gju2.jpg)
+:::
+
+## Trainings in other Organizations
+
+> June 2024, 60 Professor of Social Sciences, GJU - Hisar.
+
+![](images/gju-online.jpg)
+
+## Trainings in other Organizations
+
+> Oct 2024, JNU - Delhi.
+
+![](images/jnu-talk-participants.jpg)
+
+## Watch News about SARA
+
+{{< video https://youtu.be/c0ZJQSdoWXI?si=HKRjVfOHuJ1zME1b width="100%" height="80%" >}}
+
+## 
+
+:::::: columns
+::: {.column .centering width="20%"}
+<br> <br>
+
+![Savitribai Ramabai (SARA) Institute of Data Science](images/logo-sara.png)
+:::
+
+::: {.column width="25%"}
+:::
+
+::: {.column .r-fit-text width="55%"}
+<br> <br>
+
+{{< fa mobile-screen >}} 925 315 2024
+
+{{< fa envelope >}} [sara.institute.info\@gmail.com](mailto:%20sara.institute.info@gmail.com)
+
+{{< fa globe >}} [SARA Website](https://sara-edu.netlify.app/)
+
+Follow SARA on Social
+Media.<br>[[{{< fa brands twitter >}}](https://twitter.com/sara_institute)]{.clr-black}
+  [\@sara_institute](https://twitter.com/sara_institute)
+
+[[{{< fa brands linkedin >}}](https://www.linkedin.com/company/sara-institute/)]{.clr-black}
+  [SARA LinkedIn Page](https://www.linkedin.com/company/sara-institute/)
+
+[[{{< fa brands youtube >}}](https://www.youtube.com/@SARADataScience)]{.clr-black}
+  [\@SARADataScience](https://www.youtube.com/@SARADataScience)
+
+[[{{< fa brands facebook >}}](https://www.facebook.com/profile.php?id=61564043738390)]{.clr-black}
+  [SARA Facebook
+Page](https://www.facebook.com/profile.php?id=61564043738390)
+
+[[{{< fa brands whatsapp >}}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)]{.clr-black}
+  [SARA Institute WhatsApp
+Channel](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
+
+{{< fa location-dot >}}   C/O Dr. Ajay Kumar Koli, <br>Executive
+Director, SARA Institute, <br>Dr. Ambedkar Bhawan, Kakroi Road, <br>Near
+Dayanand Hospital, <br>Sonipat - 131001, Haryana, India.
+:::
+::::::
+
+# Thank <br>You! 🙏🏽 {background-image="images/guru-ravidas.jpg" background-size="contain" background-position="right"}
+
+<br> <br>
+
+::: aside
+Dr. Kiran Lata & Dr. Ajay Koli <br>Founders of the SARA Institute.
+:::
