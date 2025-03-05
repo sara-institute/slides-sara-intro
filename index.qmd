@@ -34,20 +34,22 @@ format:
 [**Savitribai Ramabai (SARA) Institute of Data Science**]{.r-fit-text}
 :::::::
 
-## [SARA Education Trust (Reg.2024/25/IV/389)]{.r-fit-text}
+## [SARA Education Trust (Reg. No. 2024/25/IV/389)]{.r-fit-text}  {background-color=black}
 
-> Savitribai Ramabai (SARA) Institute of Data Science
+> [Savitribai Ramabai (SARA) Institute of Data Science]{.clr-white}
 
 ::: centering
 ![5 April 2023 - First Class of the
 SARA Institute of Data Science in Bhiwadi.](images/launch-sara.jpg){width="78%"}
 :::
 
-## Our Mission
+## Our Mission {background-color=black}
 
-> Our Mission is to Democratise Data Science through Education, Open Tools, and Community Collaboration.
+<br>
 
-## Free & Open-source Courses
+> [Our mission is to democratise data science through education, open tools, and community collaboration.]{.clr-white}
+
+## Free & Open-source Courses  {background-color=black}
 
 <br>
 
@@ -81,9 +83,9 @@ Research Methods
 Image source: [Unsplash](https://unsplash.com/)
 :::
 
-## SARA Saksharta Mission
+## SARA Saksharta Mission {background-color=black}
 
-> [Spread Awareness about Data Science Education & Opportunities.]{.r-fit-text}
+> [Spread Awareness about Data Science Education & Opportunities.]{.r-fit-text .clr-white}
 
 ::: {layout-ncol="3" layout-nrow="2"}
 
@@ -103,23 +105,23 @@ Image source: [Unsplash](https://unsplash.com/)
 
 :::
 
-## Our Latest Trainings
+## Our Latest Trainings {background-color=black}
 
 ![22-26 July 2024, 18 PG & PhD Participants Attended R Language Summer School. [Video](https://youtu.be/Yh5GaURxfXA)](https://sara-edu.netlify.app/images/2024summer.png)
 
-## Our Latest Trainings
+## Our Latest Trainings {background-color=black}
 
 ![16-20 Dec 2024, 11 PG & PhD Participants Attended Statistics Winter School.](https://sara-edu.netlify.app/stats-winter/2024-stats-winter/images/winter2024.jpeg)
 
-## Trainings in other Organizations
+## Training in MDU, Rohtak {background-color=black}
 
-> Dec 2023, Dept of Economics, MDU - Rohtak.
+> [Dec 2023, Dept of Economics]{.clr-white}
 
-![](images/mdu.jpg)
+![](images/mdu.jpg){fig-align=center}
 
-## Trainings in other Organizations
+## Training in SRM University, Sonipat {background-color=black}
 
-> May 2024, Dept of Food Technology, SRM - Sonipat.
+> [May 2024, Dept of Food Technology]{.clr-white}
 
 ::: {layout-ncol="2" layout-nrow="1"}
 
@@ -128,15 +130,25 @@ Image source: [Unsplash](https://unsplash.com/)
 ![](images/srm1.jpg)
 :::
 
-## Trainings in other Organizations
+## Trainings in GJU, Hisar {background-color=black}
 
-> May 2024, Dept of Food Technology, GJU - Hisar.
+> [May 2024, Dept of Food Technology]{.clr-white}
 
-![](images/gju.jpg)
+![](images/gju.jpg){fig-align=center}
 
-## Trainings in other Organizations
+## Online Training in GJU, Hisar {background-color=black}
 
-> May 2024, Dept of Food Technology, GJU - Hisar.
+> [June 2024, 60 Professors from Social Sciences]{.clr-white}
+
+![](images/gju-online.jpg){fig-align=center}
+
+## Talk in JNU, Delhi {background-color=black}
+
+> [Oct 2024, Center for Political Studies.]{.clr-white}
+
+![](images/jnu-talk-participants.jpg){fig-align=center}
+
+## SARA in News {background-color=black}
 
 ::: {layout-ncol="2" layout-nrow="1"}
 
@@ -145,36 +157,84 @@ Image source: [Unsplash](https://unsplash.com/)
 ![](images/gju2.jpg)
 :::
 
-## Trainings in other Organizations
-
-> June 2024, 60 Professor of Social Sciences, GJU - Hisar.
-
-![](images/gju-online.jpg)
-
-## Trainings in other Organizations
-
-> Oct 2024, JNU - Delhi.
-
-![](images/jnu-talk-participants.jpg)
-
-## Watch News about SARA
+## SARA in News {background-color=black}
 
 {{< video https://youtu.be/c0ZJQSdoWXI?si=HKRjVfOHuJ1zME1b width="100%" height="80%" >}}
+
+## Support SARA {background-image="images/babasaheb.jpg" background-size="contain" background-position="right" background-color=black}
+
+::::: columns
+::: {.column .r-fit-text width="70%"}
+<br> <br>
+
+-   Teach at SARA.
+
+-   Donate to SARA. **`Get Income Tax Rebate!`** Under 80G
+
+    -   UPI ID: **`919253152024\@sbi`**
+
+-   Bank Transfer:<br>
+
+    -   Account Name: SARA EDUCATION TRUST
+
+    -   Account Number: **`42920911856`**
+
+    -   Bank Name: STATE BANK OF INDIA
+
+    -   IFSC Code: SBIN0000721
+:::
+
+::: {.column width="30%"}
+:::
+:::::
+
 
 ## 
 
 :::::: columns
-::: {.column .centering width="20%"}
+::: {.column .centering width="25%"}
 <br> <br>
 
-![Savitribai Ramabai (SARA) Institute of Data Science](images/logo-sara.png)
+![Savitribai Ramabai (SARA) Institute of Data Science](images/logo-sara.png){width=60%}
 :::
 
-::: {.column width="25%"}
+::: {.column width="5%"}
+
 :::
 
-::: {.column .r-fit-text width="55%"}
-<br> <br>
+::: {.column .r-fit-text width="30%"}
+<br>
+<br>
+<br>
+<br>
+
+#### Follow SARA on Social Media:
+
+<br>{{< fa brands twitter >}}
+ [\@sara_institute](https://twitter.com/sara_institute)
+
+{{< fa brands linkedin >}} [SARA LinkedIn Page](https://www.linkedin.com/company/sara-institute/)
+
+{{< fa brands youtube >}} [\@SARADataScience](https://www.youtube.com/@SARADataScience)
+
+{{< fa brands facebook >}} [SARA Facebook
+Page](https://www.facebook.com/profile.php?id=61564043738390)
+
+{{< fa brands whatsapp >}} [SARA Institute WhatsApp
+Channel](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
+
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column .r-fit-text width="35%"}
+<br> 
+<br>
+<br>
+
+#### Contact Us:
 
 {{< fa mobile-screen >}} 925 315 2024
 
@@ -182,34 +242,18 @@ Image source: [Unsplash](https://unsplash.com/)
 
 {{< fa globe >}} [SARA Website](https://sara-edu.netlify.app/)
 
-Follow SARA on Social
-Media.<br>[[{{< fa brands twitter >}}](https://twitter.com/sara_institute)]{.clr-black}
-  [\@sara_institute](https://twitter.com/sara_institute)
 
-[[{{< fa brands linkedin >}}](https://www.linkedin.com/company/sara-institute/)]{.clr-black}
-  [SARA LinkedIn Page](https://www.linkedin.com/company/sara-institute/)
 
-[[{{< fa brands youtube >}}](https://www.youtube.com/@SARADataScience)]{.clr-black}
-  [\@SARADataScience](https://www.youtube.com/@SARADataScience)
-
-[[{{< fa brands facebook >}}](https://www.facebook.com/profile.php?id=61564043738390)]{.clr-black}
-  [SARA Facebook
-Page](https://www.facebook.com/profile.php?id=61564043738390)
-
-[[{{< fa brands whatsapp >}}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)]{.clr-black}
-  [SARA Institute WhatsApp
-Channel](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
-
-{{< fa location-dot >}}   C/O Dr. Ajay Kumar Koli, <br>Executive
+{{< fa location-dot >}} C/O Dr. Ajay Kumar Koli, <br>Executive
 Director, SARA Institute, <br>Dr. Ambedkar Bhawan, Kakroi Road, <br>Near
 Dayanand Hospital, <br>Sonipat - 131001, Haryana, India.
 :::
 ::::::
 
-# Thank <br>You! 🙏🏽 {background-image="images/guru-ravidas.jpg" background-size="contain" background-position="right"}
+# Thank <br>You! 🙏🏽 {background-image="images/guru-ravidas.jpg" background-size="contain" background-position="right" background-color=black}
 
 <br> <br>
 
 ::: aside
-Dr. Kiran Lata & Dr. Ajay Koli <br>Founders of the SARA Institute.
+[Our Dear Students & Supporters.]{.r-fit-text .clr-white}
 :::
