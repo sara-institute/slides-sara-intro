@@ -1,4 +1,5 @@
 ---
+pagetitle: "SARA Intro"
 format: 
   revealjs:
     theme: [default, styles.scss]
