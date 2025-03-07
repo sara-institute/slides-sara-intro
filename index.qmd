@@ -50,6 +50,8 @@ SARA Institute of Data Science in Bhiwadi.](images/launch-sara.jpg){width="78%"}
 
 > [Our mission is to democratise data science through education, open tools, and community collaboration.]{.clr-white}
 
+![](https://sara-edu.netlify.app/images/founders-kiran-ajay.jpeg){fig-align=center}
+
 ## Free & Open-source Courses  {background-color=black}
 
 <br>
@@ -162,6 +164,10 @@ Image source: [Unsplash](https://unsplash.com/)
 
 {{< video https://youtu.be/c0ZJQSdoWXI?si=HKRjVfOHuJ1zME1b width="100%" height="80%" >}}
 
+## {background-image="https://images.unsplash.com/photo-1462536943532-57a629f6cc60?q=80&w=2946&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" background-size=cover}
+
+[**SARA <br> INTERNATIONAL <br> UNIVERSITY**]{.r-fit-text .centering .clr-white}
+
 ## Support SARA {background-image="images/babasaheb.jpg" background-size="contain" background-position="right" background-color=black}
 
 ::::: columns
@@ -172,7 +178,7 @@ Image source: [Unsplash](https://unsplash.com/)
 
 -   Donate to SARA. **`Get Income Tax Rebate!`** Under 80G
 
-    -   UPI ID: **`919253152024\@sbi`**
+    -   UPI ID: **`919253152024@sbi`**
 
 -   Bank Transfer:<br>
 
